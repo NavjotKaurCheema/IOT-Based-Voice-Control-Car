@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The IoT-Based Voice Controlled Car project aims to create a robotic car that can be controlled using voice commands via a smartphone app. This project integrates Arduino microcontrollers, motor drivers, Bluetooth modules, and ultrasonic sensors to provide intuitive control and autonomous navigation.
+The IoT-Based Voice Controlled Car project is a robotic car that can be controlled using voice commands via a smartphone app. This project integrates Arduino microcontrollers, motor drivers, Bluetooth modules, and ultrasonic sensors to provide intuitive control and autonomous navigation.
 
 ## Hardware Requirements
 - **Arduino Microcontroller**: Central processing unit.
